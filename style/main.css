@@ -710,18 +710,4 @@ hr {
   .game-message .lower {
     margin-top: 30px !important; } }
 
-@media (orientation: landscape) { 
-.rotate-screen { 
-  position:fixed;
-  left:0px;
-  top:0px;
-  z-index: 1000;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background: white url(../rotate.png) center center no-repeat;
-  background-size: 324px 200px;
-}
-}
-
 

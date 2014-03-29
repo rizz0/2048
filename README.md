@@ -12,6 +12,8 @@ Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
 
+Some unrelated bullshit
+
 ### Screenshot
 
 <p align="center">

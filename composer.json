@@ -1,0 +1,20 @@
+{
+    "name": "Prokos/2048",
+    "type": "library",
+    "description": "2048 Fork",
+    "keywords": ["adwords", "google"],
+    "homepage": "https://github.com/Prokos/2048",
+    "authors": [
+      {
+        "name": "Bas Moeys",
+        "role": "Forker"
+      },
+      {
+        "name": "Kasper Mol",
+        "role": "Forker"
+      }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
